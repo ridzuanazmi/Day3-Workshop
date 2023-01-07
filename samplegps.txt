@@ -1,0 +1,27 @@
+﻿App,Category,Rating,Reviews,Size,Installs,Type,Price,Content Rating,Genres,Last Updated,Current Ver,Android Ver
+Gangstar Vegas - mafia game,GAME,4.5,4830407,32M,"50,000,000+",Free,0,Mature 17+,Action,"May 25, 2018",3.7.1a,Varies with device
+Sketchfab,FAMILY,4.3,906,9.2M,"50,000+",Free,0,Mature 17+,Entertainment,"March 9, 2018",0.46.0,4.4 and up
+Golf GPS by SwingxSwing,SPORTS,4.6,37167,Varies with device,"1,000,000+",Free,0,Everyone,Sports,"July 30, 2018",Varies with device,4.4 and up
+Ruler cm,TOOLS,3.6,661,809k,"100,000+",Free,0,Everyone,Tools,"September 10, 2014",2.1,2.2 and up
+Ag-Pro Companies,BUSINESS,NaN,0,45M,50+,Free,0,Everyone,Business,"March 6, 2018",2.3.0,4.4 and up
+EC QR,PRODUCTIVITY,NaN,0,4.0M,10+,Free,0,Everyone,Productivity,"July 24, 2018",1.0.2,4.1 and up
+Garena Free Fire,GAME,4.5,5534114,53M,"100,000,000+",Free,0,Teen,Action,"August 3, 2018",1.21.0,4.0.3 and up
+CP Trivia,GAME,5.0,5,12M,100+,Free,0,Everyone,Trivia,"August 6, 2018",0.99,5.0 and up
+MTV,ENTERTAINMENT,3.8,35279,15M,"1,000,000+",Free,0,Teen,Entertainment,"July 8, 2018",11.45.0,4.4 and up
+HotelTonight: Book amazing deals at great hotels,TRAVEL_AND_LOCAL,4.4,57573,Varies with device,"5,000,000+",Free,0,Everyone,Travel & Local,"July 31, 2018",Varies with device,Varies with device
+Flybook,BOOKS_AND_REFERENCE,3.9,1778,4.9M,"500,000+",Free,0,Mature 17+,Books & Reference,"October 16, 2014",1.0.3,2.1 and up
+SMS Au revoir,FAMILY,NaN,17,1.7M,"5,000+",Free,0,Everyone,Entertainment,"January 15, 2018",2.0.0,4.0 and up
+Bejeweled Blitz,FAMILY,4.2,222664,98M,"10,000,000+",Free,0,Everyone,Puzzle,"August 1, 2018",2.6.0.125,4.0.3 and up
+FC Barcelona Official Keyboard,SPORTS,4.7,5229,20M,"500,000+",Free,0,Everyone,Sports,"May 17, 2018",2.1.0.0.15734,4.1 and up
+DC-014,PHOTOGRAPHY,5.0,3,16M,500+,Free,0,Everyone,Photography,"June 14, 2018",1.0.3,4.1 and up
+iSniper 3D Arctic Warfare,GAME,3.8,35572,Varies with device,"1,000,000+",Free,0,Teen,Arcade,"September 4, 2013",Varies with device,Varies with device
+Sweet Baby Girl - Dream House and Play Time,FAMILY,3.9,95537,58M,"10,000,000+",Free,0,Everyone,Educational;Education,"July 13, 2018",2.2.54,4.4 and up
+SW-DB,TOOLS,4.5,954,7.6M,"10,000+",Free,0,Teen,Tools,"July 11, 2016",0.4.1,4.1 and up
+Microsoft Edge,COMMUNICATION,4.3,27156,66M,"5,000,000+",Free,0,Everyone,Communication,"July 28, 2018",42.0.0.2059,4.4 and up
+"ES File Explorer & Manager, Locker Xplorer 2018",TOOLS,3.5,11,3.0M,"1,000+",Free,0,Everyone,Tools,"March 17, 2018",1.2,4.2 and up
+Fancy Pants Adventures,GAME,4.7,55952,61M,"1,000,000+",Free,0,Everyone 10+,Arcade,"July 13, 2017",1.0.10,4.1 and up
+AI Draw | Art Filter for Selfie,PHOTOGRAPHY,3.0,20,4.3M,"1,000+",Paid,$2.99,Everyone,Photography,"June 18, 2018",1.4.7,5.0 and up
+K keyboard - Myanmar,TOOLS,4.8,1955,14M,"100,000+",Free,0,Everyone,Tools,"March 17, 2018",1.0.8,4.1 and up
+Villains vs Superheroes,FAMILY,4.3,128,22M,"10,000+",Free,0,Everyone,Puzzle,"September 12, 2017",3.3.3z,4.0.3 and up
+BZ Dealer,PRODUCTIVITY,NaN,5,4.6M,500+,Free,0,Everyone,Productivity,"October 31, 2017",1.0.3,4.0.3 and up
+
