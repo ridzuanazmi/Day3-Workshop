@@ -2,6 +2,7 @@ package sdf;
 
 public class PlayStoreData {
 
+	// fields of PLayStoreData
 	private String category;
 	private String highestRatedGame;
 	private float highestRating = -100f;
@@ -10,8 +11,10 @@ public class PlayStoreData {
 	private float totalRating = 0f;
 	private int count = 0;
 
+	// Constructor of PlayStoreData
 	public PlayStoreData(String category) { this.category = category; }
 
+	// seeters and getters of PlayStoreData
 	public void setCategory(String category) { this.category = category; }
 	public String getCategory() { return this.category; }
 
@@ -29,6 +32,7 @@ public class PlayStoreData {
 	public void setLowestRating(float lowestRating) { this.lowestRating = lowestRating; }
 	public float getLowestRating() { return this.lowestRating; }
 
+	// methods of PLayStoreData
 	public void add(float rating) {
 		totalRating += rating;
 		count++;
@@ -42,4 +46,13 @@ public class PlayStoreData {
 			this.lowestRatedGame = name;
 		}
 	}
+
+	@Override
+	public String toString() {
+		return "PlayStoreData [category = " + category + ", highestRatedGame = " + highestRatedGame + ", highestRating = "
+				+ highestRating + ", lowestRatedGame = " + lowestRatedGame + ", lowestRating = " + lowestRating
+				+ ", totalRating = " + totalRating + ", count = " + count + "]";
+	}
+
+	
 }
